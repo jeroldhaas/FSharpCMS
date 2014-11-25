@@ -1,0 +1,16 @@
+C:\Users\JHaas\Documents\Projects\Work\EdgeWebware\InternalProjects\FSharpCMS\branches\New folder\FSharpCMS-MVC5\FSharpCMS_MVC5_Model\bin\Debug\FSharpCMS_MVC5_Model.XML
+C:\Users\JHaas\Documents\Projects\Work\EdgeWebware\InternalProjects\FSharpCMS\branches\New folder\FSharpCMS-MVC5\FSharpCMS_MVC5_Model\bin\Debug\FSharpCMS_MVC5_Model.dll
+C:\Users\JHaas\Documents\Projects\Work\EdgeWebware\InternalProjects\FSharpCMS\branches\New folder\FSharpCMS-MVC5\FSharpCMS_MVC5_Model\bin\Debug\FSharpCMS_MVC5_Model.pdb
+C:\Users\JHaas\Documents\Projects\Work\EdgeWebware\InternalProjects\FSharpCMS\branches\New folder\FSharpCMS-MVC5\FSharpCMS_MVC5_Model\bin\Debug\FSharp.Core.dll
+C:\Users\JHaas\Documents\Projects\Work\EdgeWebware\InternalProjects\FSharpCMS\branches\New folder\FSharpCMS-MVC5\FSharpCMS_MVC5_Model\bin\Debug\FSharp.Core.xml
+C:\Users\JHaas\Documents\Projects\Work\EdgeWebware\InternalProjects\FSharpCMS\branches\New folder\FSharpCMS-MVC5\FSharpCMS_MVC5_Model\obj\Debug\FSharpCMS_MVC5_Model.dll
+C:\Users\JHaas\Documents\Projects\Work\EdgeWebware\InternalProjects\FSharpCMS\branches\New folder\FSharpCMS-MVC5\FSharpCMS_MVC5_Model\obj\Debug\FSharpCMS_MVC5_Model.pdb
+C:\Users\JHaas\Documents\Projects\Work\EdgeWebware\InternalProjects\FSharpCMS\branches\New folder\FSharpCMS-MVC5\FSharpCMS_MVC5_Model\bin\Debug\FSharpCMS_MVC5_Model.dll.config
+C:\Users\JHaas\Documents\Projects\Work\EdgeWebware\InternalProjects\FSharpCMS\branches\New folder\FSharpCMS-MVC5\FSharpCMS_MVC5_Model\bin\Debug\EntityFramework.dll
+C:\Users\JHaas\Documents\Projects\Work\EdgeWebware\InternalProjects\FSharpCMS\branches\New folder\FSharpCMS-MVC5\FSharpCMS_MVC5_Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JHaas\Documents\Projects\Work\EdgeWebware\InternalProjects\FSharpCMS\branches\New folder\FSharpCMS-MVC5\FSharpCMS_MVC5_Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JHaas\Documents\Projects\Work\EdgeWebware\InternalProjects\FSharpCMS\branches\New folder\FSharpCMS-MVC5\FSharpCMS_MVC5_Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\JHaas\Documents\Projects\Work\EdgeWebware\InternalProjects\FSharpCMS\branches\New folder\FSharpCMS-MVC5\FSharpCMS_MVC5_Model\bin\Debug\EntityFramework.xml
+C:\Users\JHaas\Documents\Projects\Work\EdgeWebware\InternalProjects\FSharpCMS\branches\New folder\FSharpCMS-MVC5\FSharpCMS_MVC5_Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JHaas\Documents\Projects\Work\EdgeWebware\InternalProjects\FSharpCMS\branches\New folder\FSharpCMS-MVC5\FSharpCMS_MVC5_Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JHaas\Documents\Projects\Work\EdgeWebware\InternalProjects\FSharpCMS\branches\New folder\FSharpCMS-MVC5\FSharpCMS_MVC5_Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
